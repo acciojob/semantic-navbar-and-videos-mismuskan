@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+.nav{
+	display:flex;
+	justify-content:space-around;
+	text-decoration:none;
+	
+}
+div>video{
+	height:200px;
+	width:300px;
+}
